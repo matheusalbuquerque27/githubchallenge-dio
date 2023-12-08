@@ -1,1 +1,3 @@
 Estas anotações serão importantes ao longo dos processos do Git
+
+Aqui um segundo comentário que deve ser conferido através do pull
