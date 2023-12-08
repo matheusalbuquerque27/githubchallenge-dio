@@ -1,3 +1,6 @@
 Estas anotações serão importantes ao longo dos processos do Git
 
 Este texto ficará antes do que foi adicionado no github. Foi editado na máquina local.
+
+Aqui um segundo comentário que deve ser conferido através do pull
+
