@@ -1,0 +1,1 @@
+Estas anotações serão importantes ao longo dos processos do Git
